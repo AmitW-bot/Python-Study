@@ -6,7 +6,7 @@ def addition():
     print ("Addition" + str(add))
 
 def sub():
-    add = num1 - num2
+    sub = num1 - num2
     print ("Sub" + str(Sub))
 
 def mul():

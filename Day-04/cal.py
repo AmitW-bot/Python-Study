@@ -7,7 +7,7 @@ def addition():
 
 def sub():
     sub = num1 - num2
-    print ("Sub" + str(Sub))
+    print ("Sub" + str(sub))
 
 def mul():
     mul = num1 * num2

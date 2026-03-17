@@ -1,11 +1,18 @@
 num1 = 77
 num2 = 12
 
-add = num1 + num2
-print("Value of addition" + str(add))
+def addition():
+    add = num1 + num2
+    print ("Addition" + str(add))
 
-sub = num1 - num2
-print (sub)
+def sub():
+    add = num1 - num2
+    print ("Sub" + str(Sub))
 
-mul = num1 * num2
-print (mul)
+def mul():
+    mul = num1 * num2
+    print ("Addition" + str(mul))
+
+addition()
+sub()
+mul()
